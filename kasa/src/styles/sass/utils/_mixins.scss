@@ -1,0 +1,16 @@
+@mixin max-width-auto {
+    max-width: 1500px;
+    margin: 0 auto;
+}
+
+@mixin font-family {
+    font-family: "Montserrat", "Trebuchet MS", sans-serif;
+}
+
+@mixin object-cover {
+    object-fit: cover;
+}
+
+@mixin font-weight {
+    font-weight: 500;
+}
