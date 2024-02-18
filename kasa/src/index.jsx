@@ -19,6 +19,7 @@ root.render(
             <Header />
             <Routes>
                 <Route path="/Kasa-published" element={<Home />} />
+                
                 <Route path="/about" element={<About />} />
                 <Route path="/housing/:id" element={<Housing />} />
                 <Route path="*" element={<Error />} />

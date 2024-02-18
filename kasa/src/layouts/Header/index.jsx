@@ -7,7 +7,7 @@ function Header() {
         <div className="kasa__banner">
             <img src={logo} alt="Logo Kasa" className="kasa__banner__logo" />
 
-            <Link to="/" className="kasa__banner__page">
+            <Link to="/Kasa-published" className="kasa__banner__page">
                 Accueil
             </Link>
             <Link to="/about" className="kasa__banner__page">
