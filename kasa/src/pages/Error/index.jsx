@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+/*import { Link } from "react-router-dom";
 import ERROR from "../../assets/404.png";
 import "../../styles/css/prefixed/style.css";
 
@@ -14,10 +14,10 @@ function Error() {
             </Link>
         </div>
     );
-}
+}*/
 
 
-/*import { Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import IMG from "../../assets/IMG.png";
 import Card from "../../components/Cards";
 import "../../styles/css/prefixed/style.css";
@@ -53,6 +53,6 @@ function Error() {
             </div>
         </div>
     );
-}*/
+}
 
 export default Error;
